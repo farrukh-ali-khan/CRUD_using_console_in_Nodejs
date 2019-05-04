@@ -63,14 +63,3 @@ function crud() {
         }
     });
 }
-
-// function run(){
-//     readline.question('Want to run the program again = \n1: yes\n2: no\nYour Option = ', (useropt) => {
-//         if (Number(useropt) === 1) {
-//             crud();
-//         } else {
-//             console.log('Program Closed');
-//             readline.close();
-//         }
-//     })
-// }
